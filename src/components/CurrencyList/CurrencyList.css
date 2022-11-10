@@ -1,0 +1,68 @@
+.list-header {
+    font-size: 20px;
+
+}
+
+.base-currency-container {
+    text-align: right;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 15px;
+}
+
+.currency-select {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px 20px;
+    margin: 0 20px 0 0;
+}
+
+.favourites {
+    margin: 15px 0 0 0;
+}
+
+.main-list {
+    margin: 40px 0 0 0;
+}
+
+.currency-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid black;
+    padding: 15px 20px;
+}
+
+.currency-item:first-child {
+    border-top: 1px solid black;
+}
+
+.currency-label {
+    width: 40px;
+}
+
+.currency-name {
+    width: 350px;
+    text-align: left;
+}
+
+.currency-rate {
+    width: 100px;
+}
+
+.add-favourite button {
+    border: .5px solid black;
+    border-radius: 5px;
+    padding: 2px 3px;
+}
+
+.info-label {
+    text-align: center;
+    margin: 30px 0 0 0;
+    font-size: 32px;
+}
+
+.no-favourites {
+    text-align: center;
+}

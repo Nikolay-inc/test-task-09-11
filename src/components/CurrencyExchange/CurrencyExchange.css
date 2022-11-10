@@ -1,0 +1,40 @@
+.exchange-container {
+    margin: 40px 0 0 0;
+    text-align: center;
+}
+
+.exchange-title {
+    font-size: 28px;
+}
+
+.exchange-rules {
+    margin: 40px 0 0 0;
+    font-size: 14px;
+    color: red;
+}
+
+.input-field {
+    margin: 10px 0 0 0;
+    width: 500px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px 15px;
+}
+
+.calc-button {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px 15px;
+    font-weight: 400;
+    color: white;
+    background-color: green;
+}
+
+.exchange-result {
+    margin: 40px 0 0 0;
+}
+
+.exchange-result p {
+    margin: 15px 0 0 0;
+    font-size: 24px;
+}
